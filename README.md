@@ -1,4 +1,5 @@
-# Project Title
+# webDevResources
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF750&background=FFA29700&width=435&lines=webDevResources;Your+entire+knowledge+base+in+one+neat+place)](https://git.io/typing-svg)
 
 Simple overview of use/purpose.
 
@@ -60,3 +61,4 @@ Inspiration, code snippets, etc.
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [readme-typing-svg](https://github.com/denvercoder1/readme-typing-svg)

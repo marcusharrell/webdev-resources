@@ -1,4 +1,4 @@
-[JavaScript Variables](https://www.developer.com/languages/javascript/javascript-variables/)
+
 # WTF are Variables?
 [Variables are containers for storing data (storing data values).](https://www.w3schools.com/js/js_variables.asp)
 
@@ -65,3 +65,5 @@ console.log('Outside a function: ' + globalVar);
 //anotherGlobalVar = 4.5
 console.log('anotherGlobalVar = ' + anotherGlobalVar);
 ```
+#### Links
+https://www.developer.com/languages/javascript/javascript-variables/)

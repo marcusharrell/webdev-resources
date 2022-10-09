@@ -1,27 +1,33 @@
 [JavaScript Variables](https://www.developer.com/languages/javascript/javascript-variables/)
-### WTF are Variables?
+# WTF are Variables?
 [Variables are containers for storing data (storing data values).](https://www.w3schools.com/js/js_variables.asp)
 
+[Here is a great analogy further explaining variables using a real world example](https://javascript.info/variables#a-real-life-analogy)
+
+
 In this example, x, y, and z, are variables, declared with the var keyword:
+
 ```
 var x = 5;
 var y = 6;
 var z = x + y;
+// 11 
 ```
+
 In this example, x, y, and z, are variables, declared with the let keyword:
+
 ```
 let x = 5;
 let y = 6;
 let z = x + y;
+// 11
 ```
+
+
 
 Below are undeclared variables. 
 *(Undeclared variables mean that the variable does not exist in the program at all!)*
-```
-x = 5;
-y = 6;
-z = x + y;
-```
+
 
 
 

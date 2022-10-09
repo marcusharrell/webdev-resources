@@ -1,4 +1,4 @@
-## Sources/Guides
+## Sources & Guides used:
 * [ Developer.com](https://www.developer.com/)
 * [ W3Schools](https://www.w3schools.com/)
 * [ JavaScript.info](https://javascript.info/)

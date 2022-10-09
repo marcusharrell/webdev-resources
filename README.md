@@ -1,7 +1,7 @@
 
  [![Typing SVG][image-1]][1]
 
-## A living hub for everything related to programming
+# A living hub for everything related to programming
 
 
 ## Languages
@@ -14,7 +14,7 @@
 ### [Git][8]
 
 
-## Authors
+## Contributers
 * [Mika][9]
 
 

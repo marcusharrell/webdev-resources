@@ -9,6 +9,8 @@ An in-depth paragraph about your project and overview of use.
 
 ## Languages
 [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/JavaScript)
+  * [Functions](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/Functions.md)
+  * [Variables](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/Variables.md)
 
 ## Authors
 

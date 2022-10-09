@@ -30,8 +30,8 @@ Below are undeclared variables.
 
 
 
-
-### How to Declare and Set a JavaScript Variable
+---
+### How do I declare and set a variable? 
 
 Before we get into the business of declaring and setting a variable in JavaScript, we should establish that there are two variable scopes in JavaScript: local and global.
 

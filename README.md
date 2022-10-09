@@ -1,24 +1,43 @@
+<div align="center">
+    <h1>webDevResources</h1>
+    <i>A collaborative list of resources and guides for everything related to web development</i>
+</div>
 
- [![Typing SVG][image-1]][1]
+<br />
 
-# A living hub for everything related to programming
+<div align="center">
+    <sub>The Project</sub>
+    <br />
+    <a href="CONTRIBUTING.md">Contributing Guide</a> •
+    <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
+    <a href="https://github.com/public-apis-dev/public-apis/issues">Issues</a> •
+    <a href="https://github.com/public-apis-dev/public-apis/pulls">Pull Requests</a> •
+    <a href="LICENSE">License</a>
+</div>
+
+
+<br />
+
+---
+
+<br />
 
 
 ## Languages
-### [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/Languages/JavaScript)
+- [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/Languages/JavaScript)
   
-### [CSS][6]
+- [CSS][6]
 
-### [C#][7]
+- [C#][7]
 
-### [Git][8]
+- [Git][8]
 
 
 ## Contributers
 * [Mika][9]
 
 
-## Acknowledgments/Sources
+## Sources
 * [Developer.com][10]
 * [W3Schools][11]
 * [JavaScript.info][12]
@@ -31,6 +50,7 @@
 * [zenorocha][17]
 * [fvcproductions][18]
 * [readme-typing-svg][19]
+* [public-apis-dev](https://github.com/public-apis-dev/public-apis)
 
 [1]:	https://git.io/typing-svg
 [2]:	https://github.com/mikaoi/webdev-resources/tree/main/JavaScript

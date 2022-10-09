@@ -1,4 +1,30 @@
 [JavaScript Variables](https://www.developer.com/languages/javascript/javascript-variables/)
+### WTF are Variables?
+[Variables are containers for storing data (storing data values).](https://www.w3schools.com/js/js_variables.asp)
+
+In this example, x, y, and z, are variables, declared with the var keyword:
+```
+var x = 5;
+var y = 6;
+var z = x + y;
+```
+In this example, x, y, and z, are variables, declared with the let keyword:
+```
+let x = 5;
+let y = 6;
+let z = x + y;
+```
+
+Below are undeclared variables. 
+*(Undeclared variables mean that the variable does not exist in the program at all!)*
+```
+x = 5;
+y = 6;
+z = x + y;
+```
+
+
+
 ### How to Declare and Set a JavaScript Variable
 
 Before we get into the business of declaring and setting a variable in JavaScript, we should establish that there are two variable scopes in JavaScript: local and global.

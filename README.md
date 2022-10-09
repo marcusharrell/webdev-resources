@@ -5,7 +5,7 @@
 
 
 ## Languages
-### [JavaScript][2]
+### [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/Languages/JavaScript)
   
 ### [CSS][6]
 

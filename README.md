@@ -1,19 +1,24 @@
-# webDevResources
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF750&background=FFA29700&width=435&lines=webDevResources;Your+entire+knowledge+base+in+one+neat+place)](https://git.io/typing-svg)
 
-A living hub for everything related to programming
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=webDev+Resources;All+of+your+knowledge+in+one+place)](https://git.io/typing-svg)
 
-## Description
+## A living hub for everything related to programming
 
-An in-depth paragraph about your project and overview of use.
+
+## Languages
+[JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/JavaScript)
+  * [Functions](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/Functions.md)
+  * [Variables](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/Variables.md)
 
 ## Authors
 
-Contributors names and contact info
+Mika 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-## Acknowledgments
+
+## Acknowledgments/Sources
+* [Developer.com](https://www.developer.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [JavaScript.info](https://javascript.info)
+* [GeeksForGeeks](https://www.geeksforgeeks.org)
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)

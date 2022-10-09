@@ -1,5 +1,5 @@
 # webDevResources
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3CF750&background=FFA29700&width=435&lines=webDevResources;Your+entire+knowledge+base+in+one+neat+place)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=webDev+Resources;All+of+your+knowledge+in+one+place)](https://git.io/typing-svg)
 
 A living hub for everything related to programming
 

@@ -9,15 +9,15 @@
 
 
 ## Topics
-* [Strings](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Numbers](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Booleans](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Operators](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Variables](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Functions](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Conditionals](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Arrays](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-* [Objects](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Strings](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/strings.md)
+* [Numbers](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/numbers.md)
+* [Booleans](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/booleans.md)
+* [Operators](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/operators.md)
+* [Variables](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/variables.md)
+* [Functions](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/functions.md)
+* [Conditionals](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/conditionals.md)
+* [Arrays](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/arrays.md)
+* [Objects](https://github.com/mikaoi/webdev-resources/blob/main/Languages/JavaScript/objects.md)
 
 ## What can JavaScript do? 
 

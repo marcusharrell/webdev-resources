@@ -14,9 +14,11 @@ An in-depth paragraph about your project and overview of use.
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-## Acknowledgments
+Mika 
+
+
+## Acknowledgments/Sources
+[Developer.com](https://www.developer.com/)
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)

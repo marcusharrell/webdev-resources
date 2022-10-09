@@ -5,15 +5,17 @@
 
 
 ## Languages
-[JavaScript][2]
-  * [Functions][3]
-  * [Variables][4]
-[HTML][5]
-[CSS][6]
-[C\#][7]
-[Git][8]
+### [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/Languages/JavaScript)
+  
+### [CSS][6]
+
+### [C#][7]
+
+### [Git][8]
+
+
 ## Authors
-[Mika][9]
+* [Mika][9]
 
 
 ## Acknowledgments/Sources
@@ -22,7 +24,7 @@
 * [JavaScript.info][12]
 * [GeeksForGeeks][13]
 
-Inspiration, code snippets, etc.
+## Inspiration, code snippets, etc.
 * [awesome-readme][14]
 * [PurpleBooth][15]
 * [dbader][16]

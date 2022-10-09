@@ -1,11 +1,8 @@
-# webDevResources
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=webDev+Resources;All+of+your+knowledge+in+one+place)](https://git.io/typing-svg)
 
-A living hub for everything related to programming
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=webDev+Resources;All+of+your+knowledge+in+one+place)](https://git.io/typing-svg)
 
-## Description
+## A living hub for everything related to programming
 
-An in-depth paragraph about your project and overview of use.
 
 ## Languages
 [JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/JavaScript)

@@ -20,10 +20,10 @@ Mika
 
 
 ## Acknowledgments/Sources
-[Developer.com](https://www.developer.com/)
-[W3Schools](https://www.w3schools.com/)
-[JavaScript.info](https://javascript.info)
-[GeeksForGeeks](https://www.geeksforgeeks.org)
+* [Developer.com](https://www.developer.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [JavaScript.info](https://javascript.info)
+* [GeeksForGeeks](https://www.geeksforgeeks.org)
 
 Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)

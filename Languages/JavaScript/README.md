@@ -1,13 +1,24 @@
 # What's JavaScript? <img src="https://user-images.githubusercontent.com/102714188/194733311-404073aa-eecd-492d-9479-f46066b10a7c.png" width="50" >
 
+
 > JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area. 
 >
 > -- <cite>[MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#so_what_can_it_really_do)</cite>
 
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bRpncc0A--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/damiancipolat/js_vs_memes/blob/master/doc/fav_meme.jpg%3Fraw%3Dtrue" >
+
+
 ## Topics
+* [Strings](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Numbers](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Booleans](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Operators](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
 * [Variables](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
 * [Functions](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
-
+* [Conditionals](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Arrays](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
+* [Objects](https://github.com/mikaoi/webdev-resources/blob/main/JavaScript/README.md)
 
 ### What can JavaScript do for me? 
 

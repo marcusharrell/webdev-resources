@@ -1,0 +1,1 @@
+[JavaScript Variables](https://www.developer.com/languages/javascript/javascript-variables/)

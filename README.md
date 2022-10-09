@@ -7,6 +7,9 @@ A living hub for everything related to programming
 
 An in-depth paragraph about your project and overview of use.
 
+## Languages
+[JavaScript](https://github.com/mikaoi/webdev-resources/tree/main/JavaScript)
+
 ## Authors
 
 Contributors names and contact info

@@ -5,16 +5,17 @@ Before we get into the business of declaring and setting a variable in JavaScrip
 
 Local variables are declared inside a function or block using the const, let, or var keywords and are accessible only within that function or block:
 
-`function aFunction() {
+```
+function aFunction() {
   var myLocalVar = 99; //local variable  
   console.log(myLocalVar); //99 
 }
 
 //ReferenceError: myLocalVar is not defined
 console.log(myLocalVar); 
-`
+```
 Meanwhile, global variables are those that are declared without the const, let, or var keywords or explicitly added to the global window object. As you would expect, once declared, global variables are accessible from anywhere in the script. They can be declared outside the function or explicitly added to the window object:
-
+```
 globalVar = 'I am global!';
 
 function aFunction() {
@@ -31,3 +32,4 @@ console.log('Outside a function: ' + globalVar);
 
 //anotherGlobalVar = 4.5
 console.log('anotherGlobalVar = ' + anotherGlobalVar);
+```

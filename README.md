@@ -3,20 +3,7 @@
     <i>A collaborative list of resources and guides for everything related to web development</i>
 </div>
 
-<br />
 
-<div align="center">
-    <sub>The Project</sub>
-    <br />
-    <a href="CONTRIBUTING.md">Contributing Guide</a> •
-    <!-- <a href="https://github.com/davemachado/public-api">API for this project</a> • -->
-    <a href="https://github.com/public-apis-dev/public-apis/issues">Issues</a> •
-    <a href="https://github.com/public-apis-dev/public-apis/pulls">Pull Requests</a> •
-    <a href="LICENSE">License</a>
-</div>
-
-
-<br />
 
 ---
 
